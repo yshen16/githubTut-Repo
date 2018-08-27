@@ -1,0 +1,1 @@
+test if the file under a directory can be added automatically.
